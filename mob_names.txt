@@ -1,0 +1,15 @@
+VNUM	LOCALE_NAME
+101	Caine Salbatic
+102	Lup
+103	Lup Alpha
+104	Lup Albastru
+105	Lup Alpha Albastru
+106	Lup Gri
+107	Lup Alpha Gri
+108	Mistret
+109	Mistret Rosu
+110	Urs
+111	Urs Grizzly
+112	Urs Negru
+113	Urs Brun
+114	Tigru
