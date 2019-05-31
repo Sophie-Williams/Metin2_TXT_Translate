@@ -14,14 +14,14 @@ namespace RavSoft.GoogleTranslator
     /// <summary>
     /// A sample application to demonstrate the <see cref="TranslatorOld"/> class.
     /// </summary>
-    public partial class GoogleTranslatorFrm : Form
+    public partial class Metin2_TXT_Translate : Form
     {
         #region Constructor
 
             /// <summary>
-            /// Initializes a new instance of the <see cref="GoogleTranslatorFrm"/> class.
+            /// Initializes a new instance of the <see cref="Metin2_TXT_Translate"/> class.
             /// </summary>
-            public GoogleTranslatorFrm()
+            public Metin2_TXT_Translate()
             {
                 InitializeComponent();
             }

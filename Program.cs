@@ -17,7 +17,7 @@ namespace RavSoft.GoogleTranslator
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new GoogleTranslatorFrm());
+            Application.Run(new Metin2_TXT_Translate());
         }
     }
 }

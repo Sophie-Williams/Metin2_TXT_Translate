@@ -1,6 +1,6 @@
 ﻿namespace RavSoft.GoogleTranslator
 {
-    partial class GoogleTranslatorFrm
+    partial class Metin2_TXT_Translate
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(GoogleTranslatorFrm));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Metin2_TXT_Translate));
             this.label1 = new System.Windows.Forms.Label();
             this._comboFrom = new System.Windows.Forms.ComboBox();
             this._comboTo = new System.Windows.Forms.ComboBox();
@@ -120,7 +120,7 @@
             this._lnkTargetEnglish.Text = "English";
             this._lnkTargetEnglish.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this._lnkTargetEnglish_LinkClicked);
             // 
-            // GoogleTranslatorFrm
+            // Metin2_TXT_Translate
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -138,10 +138,10 @@
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(1024, 278);
             this.MinimumSize = new System.Drawing.Size(360, 278);
-            this.Name = "GoogleTranslatorFrm";
+            this.Name = "Metin2_TXT_Translate";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Google Translator Demo";
+            this.Text = "Metin2 Translate Alpha 0.1";
             this.Load += new System.EventHandler(this.GoogleTranslatorFrm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
